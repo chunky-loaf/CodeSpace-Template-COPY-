@@ -1,2 +1,2 @@
-# CodeSpace-Template-COPY-
-used to create codespaces for python
+# HOW TO USE:
+click the down arrow next to "Code <>" in the top right, then select new CodeSpace.
